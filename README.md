@@ -26,7 +26,7 @@ These are my stack technologies:
 -Git
 -AWS
 -noSQL 
-*Soft Skills
+
 
 <hr>
 
